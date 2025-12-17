@@ -14,7 +14,7 @@ Sérieux, curieux et motivé, je suis à la recherche d’une alternance en tant
 
 ## 🛠️ Compétences
 **Hardskills :**
-- Python, HTML/CSS, JavaScript, PHP, Java, Dart, Verilog
+- Python, HTML/CSS, JavaScript, Java, Dart, Verilog
 - Gestion de projet, Technical Writing, Développement Fullstack
 
 **Softskills :**
