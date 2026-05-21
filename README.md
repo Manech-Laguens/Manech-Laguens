@@ -8,7 +8,7 @@ Sérieux, curieux et motivé, je suis à la recherche d’une alternance en tant
 - 💼 Actuellement : Étudiant en Pre-Master Architecte de Systèmes d’Information à **Epitech Montpellier (2025-2028)**  
 - 🌱 J’apprends : Développement web et logiciel, Docker, Jenkins... 
 - 💬 Passionné par : Gestion de projet, UX design, développement multi-technologies  
-- 🎯 Objectif : Rejoindre une alternance où je pourrai mettre en pratique mes connaissances, contribuer à des projets réels et me perfectionner dans le développement et la gestion de projet.
+- 🎯 Objectif : Rejoindre une entreprise en alternance où je pourrai mettre en pratique mes connaissances, contribuer à des projets réels et me perfectionner dans le développement et la gestion de projet.
 
 ---
 
