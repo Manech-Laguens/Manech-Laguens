@@ -1,6 +1,6 @@
 # 🚀 Manech Laguens – Profil & Objectif 
 
-Sérieux, curieux et motivé, je suis à la recherche d’une alternance en tant que **développeur, UX Designer ou assistant Chef de Projet** à partir de Janvier 2026 pour une durée de 2,5 ans (rythme : 4 semaines entreprise / 2 semaines école).
+Sérieux, curieux et motivé, je suis à la recherche d’une alternance en tant que **développeur, UX Designer ou assistant Chef de Projet** courant 2026 pour une durée de 2 ans (rythme : 4 semaines entreprise / 2 semaines en formation).
 
 ---
 
